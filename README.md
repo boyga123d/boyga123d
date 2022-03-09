@@ -1,6 +1,8 @@
+<a href="#" target="_blank">
+<img src="svg/trungquandev.svg" width="1080px" alt="Click to see the source" />
+</a>
 <!doctype html>
 <html lang="en">
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -10,9 +12,6 @@
     <link rel="stylesheet" href="assets/css/fontawsom-all.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 </head>
-<a href="#" target="_blank">
-<img src="svg/trungquandev.svg" width="1080px" alt="Click to see the source" />
-</a>
 <body>
     <div class="container-fluid overcover">
         <div class="container profile-box">
@@ -117,7 +116,6 @@
         </div>
     </div>
 </body>
-
 <script src="assets/js/jquery-3.2.1.min.js"></script>
 <script src="assets/js/popper.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
