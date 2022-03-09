@@ -1,6 +1,3 @@
-<a href="#" target="_blank">
-<img src="svg/trungquandev.svg" width="1080px" alt="Click to see the source" />
-</a>
 <!doctype html>
 <html lang="en">
 <head>
@@ -12,6 +9,9 @@
     <link rel="stylesheet" href="assets/css/fontawsom-all.min.css">
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
 </head>
+<a href="#" target="_blank">
+<img src="svg/trungquandev.svg" width="1080px" alt="Click to see the source" />
+</a>
 <body>
     <div class="container-fluid overcover">
         <div class="container profile-box">
@@ -120,6 +120,4 @@
 <script src="assets/js/popper.min.js"></script>
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/script.js"></script>
-
-
 </html>
